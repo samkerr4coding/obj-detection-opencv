@@ -1,6 +1,5 @@
 #### OpenCV Yolo Webcam objected Detection 
 
-Author: Matthew Davis
 This is a working project to create a people and object counters using Yolo
 
 
